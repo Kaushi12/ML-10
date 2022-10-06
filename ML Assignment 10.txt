@@ -1,0 +1,42 @@
+1)Bayesian probability is an interpretation of the concept of probability, in which, instead of frequency or propensity of some phenomenon, probability is interpreted as reasonable expectation representing a state of knowledge or as quantification of a personal belief.
+
+The Bayesian interpretation of probability can be seen as an extension of propositional logic that enables reasoning with hypotheses; that is, with propositions whose truth or falsity is unknown. In the Bayesian view, a probability is assigned to a hypothesis, whereas under frequentist inference, a hypothesis is typically tested without being assigned a probability.
+Bayes' Theorem states that the conditional probability of an event, based on the occurrence of another event, is equal to the likelihood of the second event given the first event multiplied by the probability of the first event.
+
+2)P(A or B) = P(A) + P(B). The chance of any (one or more) of two or more events occurring is called the union of the events. The probability of the union of disjoint events is the sum of their individual probabilities.
+
+3)A joint probability distribution represents a probability distribution for two or more random variables. Instead of events being labelled A and B, the condition is to use X and Y as given below. f(x,y) = P(X = x, Y = y) The main purpose of this is to look for a relationship between two variables.A joint probability density function gives the relative likelihood of more than one continuous random variable each taking on a specific value.
+
+4)The chain rule, or general product rule, calculates any component of the joint distribution of a set of random variables using only conditional probabilities. This probability theory is used as a foundation for backpropagation and in creating Bayesian networks.
+
+5)Conditional probability refers to the chances that some outcome occurs given that another event has also occurred. It is often stated as the probability of B given A and is written as P(B|A), where the probability of B depends on that of A happening.Conditional probability is known as the possibility of an event or outcome happening, based on the existence of a previous event or outcome. It is calculated by multiplying the probability of the preceding event by the renewed probability of the succeeding, or conditional, event.
+
+6)A random variable X is continuous if possible values comprise either a single interval on the number line or a union of disjoint intervals. Example: If in the study of the ecology of a lake, X, the r.v. may be depth measurements at randomly chosen locations.
+
+7)A Bernoulli distribution is a discrete probability distribution for a Bernoulli trial — a random experiment that has only two outcomes (usually called a “Success” or a “Failure”). For example, the probability of getting a heads (a “success”) while flipping a coin is 0.5. The probability of “failure” is 1 – P (1 minus the probability of success, which also equals 0.5 for a coin toss). It is a special case of the binomial distribution for n = 1. In other words, it is a binomial distribution with a single trial (e.g. a single coin toss).
+
+8)A test that has a single outcome such as success/failure is also called a Bernoulli trial or Bernoulli experiment, and a series of outcomes is called a Bernoulli process. Consider an experiment where each time a question is asked for a yes/no with a series of n experiments. Then in the binomial probability distribution, the boolean-valued outcome the success/yes/true/one is represented with probability p and the failure/no/false/zero with probability q (q = 1 − p). In a single experiment when n = 1, the binomial distribution is called a Bernoulli distribution.The binomial distribution formula is for any random variable X, given by;  P(x:n,p) = nC
+x
+ px (1-p)n-x Or P(x:n,p) = nCx px (q)n-x
+
+where,
+
+n = the number of experiments
+x = 0, 1, 2, 3, 4, …
+p = Probability of success in a single experiment
+q = Probability of failure in a single experiment (= 1 – p)
+
+9)A Poisson distribution is a discrete probability distribution. It gives the probability of an event happening a certain number of times (k) within a given interval of time or space. The Poisson distribution has only one parameter, λ (lambda), which is the mean number of events.Given: λ = 3.4, and x = 6. Using the Poisson distribution formula: P(X = x) = (e-λ λx )/x! P(X = 6) = (e-3.4 3.46 )/6!
+
+10) Covariance is a measure of the relationship between two random variables. The metric evaluates how much – to what extent – the variables change together. In other words, it is essentially a measure of the variance between two variables. However, the metric does not assess the dependency between variables.Unlike the correlation coefficient, covariance is measured in units. The units are computed by multiplying the units of the two variables. The variance can take any positive or negative values. The values are interpreted as follows:
+
+Positive covariance: Indicates that two variables tend to move in the same direction.
+Negative covariance: Reveals that two variables tend to move in inverse directions.
+
+11)Correlation is a statistical measure that indicates the extent to which two or more variables fluctuate in relation to each other. A positive correlation indicates the extent to which those variables increase or decrease in parallel; a negative correlation indicates the extent to which one variable increases as the other decreases.A correlation coefficient is a statistical measure, of the degree to which changes to the value of one variable predict change to the value of another.
+
+12)When a sampling unit is drawn from a finite population and is returned to that population, after its characteristic(s) have been recorded, before the next unit is drawn, the sampling is said to be “with replacement”.If you sample with replacement, you would choose one person's name, put that person's name back in the hat, and then choose another name. The possibilities for your two-name sample are: John, John. John, Jack.
+
+13)In sampling without replacement, each sample unit of the population has only one chance to be selected in the sample. For example, if one draws a simple random sample such that no unit occurs more than one time in the sample, the sample is drawn without replacement.
+
+14)A hypothesis is an assumption, an idea that is proposed for the sake of argument so that it can be tested to see if it might be true. In the scientific method, the hypothesis is constructed before any applicable research has been done, apart from a basic background review.
